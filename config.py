@@ -1,24 +1,24 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx69dda64f25154310"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "3c68054d60f746ad0d220f20fc455cc4"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "wX-onvS7NUfd03fjW1CBTYxoCpzzPAhgwJOMeNdd6AdgQc"
 # 课程消息,上课提醒
 template_id2 = "loe1yHWr************************************"
 # 晚安心语
 template_id3 = "-fun9-2************************************"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["oonZn69TGGgulRqfR_piMBC-Klk8"]
 
 # 信息配置
 # 所在省份
-province = "四川"
+province = "陕西"
 # 所在城市
-city = "绵阳"
+city = "西安"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
 birthday = "2022-9-9"
 # 在一起的日子，格式同上------------计时器
