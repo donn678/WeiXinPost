@@ -5,7 +5,7 @@ app_id = "wx69dda64f25154310"
 app_secret = "3c68054d60f746ad0d220f20fc455cc4"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-onvS7NUfd03fjW1CBTYxoCpzzPAhgwJOMeNdd6AdgQc"
+template_id1 = "onvS7NUfd03fjW1CBTYxoCpzzPAhgwJOMeNdd6AdgQc"
 # 课程消息,上课提醒
 template_id2 = "loe1yHWr************************************"
 # 晚安心语
@@ -27,9 +27,9 @@ love_date = "2001-12-1"
 good_Night_Key = "4082bfd944c******************"
 # -------------------------------------------------------------------------
 # 设置学期第一周开始日期
-year = 2022
+year = 2024
 month = 8
-day = 29
+day = 26
 # 每日推送时间
 post_Time = "07:35:00"
 # 每节课提醒时间（有课才会提醒）, 时:分:秒  的形式, 字符串, 根据个人需要设置几次
